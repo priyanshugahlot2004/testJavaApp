@@ -32,5 +32,10 @@ public class MainActivity extends AppCompatActivity {
         btn2.setOnClickListener(v -> {
             Toast.makeText(this, "btn 2 was clicked", Toast.LENGTH_SHORT).show();
         });
+        Button btn3 = findViewById(R.id.btn2);
+        btn2.setOnClickListener(v -> {
+            Toast.makeText(this, "btn 2 was clicked", Toast.LENGTH_SHORT).show();
+        });
+        
     }
 }
