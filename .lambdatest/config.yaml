@@ -1,0 +1,5 @@
+# LambdaTest AI Cloud Configuration
+project_id: "01KPNXMDEA4DYS28379NKT909T"
+assignee: priyanshug
+configuration_name: "WinED"   # Name of the KaneAI Web configuration
+test_url: "https://your-deployed-app-url.com/"
